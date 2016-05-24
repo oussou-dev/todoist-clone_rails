@@ -7,12 +7,12 @@ TASK MANAGEMENT
 
 ##### Try HipTime_app
 
-* Online (Heroku)
-    
+* Online  :  [hiptime-app](https://hiptime-app.herokuapp.com)    
 
-* Locally
-    - git clone
-    - bundle install
-    - rake db:migrate
-    - rails s
-    - localhost:3000
+* Locally :
+    - Clone this repositoy on your desktop
+    - In your Terminal :   
+                        . bundle install  
+                        . rake db:migrate  
+                        . rails s  
+                        . localhost:3000  
