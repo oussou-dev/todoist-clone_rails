@@ -15,4 +15,4 @@ TASK MANAGEMENT
     - bundle install
     - rake db:migrate
     - rails s
-    - localhost:300O
+    - localhost:3000
