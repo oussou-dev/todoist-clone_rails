@@ -16,3 +16,9 @@ TASK MANAGEMENT
                         . rake db:migrate  
                         . rails s  
                         . localhost:3000  
+
+
+##### ScreenShot HipTime_app
+
+* Index Page  :  
+![index_page](https://github.com/oussou-dev/todoist-clone_rails/blob/master/public/screenshot/001.png)
